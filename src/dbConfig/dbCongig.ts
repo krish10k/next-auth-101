@@ -13,6 +13,6 @@ export async function connect() {
     // }
 
   } catch (error) {
-    console.log("error in connection /n", error);
+    console.log("error in db connection /n", error);
   }
 }
